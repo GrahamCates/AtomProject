@@ -1,0 +1,40 @@
+
+
+.aligncenter {
+    text-align: center;
+}
+
+
+.marginauto {
+    margin: 10px auto 20px;
+    display: block;
+}
+.Site {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  font-family: Arial;
+}
+
+.Site-content {
+  flex: 1;
+}
+
+.footer{
+  display: flex;
+  justify-content: space-evenly;
+  min-height: 47px;
+  font-size: 14px;
+  font-weight: 400;
+  color: #70757A;
+
+}
+
+.header{
+  min-height: 47px;
+  font-size: 14px;
+  font-weight: 400;
+  color: #222;
+  padding: 15px;
+
+}
